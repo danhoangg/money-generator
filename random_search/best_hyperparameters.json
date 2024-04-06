@@ -1,8 +1,0 @@
-{"num_layers": 1,
- "units_0": 352,
- "dropout_0": 0.2,
- "learning_rate": 0.001,
- "units_1": 448,
- "dropout_1": 0.1,
- "units_2": 160,
- "dropout_2": 0.1}
